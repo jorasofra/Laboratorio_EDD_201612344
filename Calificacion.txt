@@ -1,0 +1,13 @@
+--------------------------Errores-----------------
+1) Me da segmentation fault con el codigo que estoy probando
+
+--------------------------Recomendaciones---------
+1) La mayoria de veces se maneja los indices iniciando en 0.
+2) No entiendo porque haces eso en la linea 117
+
+--------------------------Nota--------------------
+
+Grafica 0/20
+Borrar 30/40
+Get 40/40
+

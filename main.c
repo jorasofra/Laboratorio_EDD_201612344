@@ -15,9 +15,12 @@ int main(){
     add(l,d);
     imprimir(l);
     printf("\n");
+    eliminar(l,1);
+    eliminar(l,3);
     eliminar(l,2);
     imprimir(l);
     get(l,3);
+    //imprimir(l);
     generar(l);
     Liberar(l);
     free(l);
