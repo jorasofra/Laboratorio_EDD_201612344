@@ -11,3 +11,4 @@ Grafica 0/20
 Borrar 30/40
 Get 40/40
 
+Total 70
