@@ -1,5 +1,5 @@
 --------------------------Errores-----------------
-1) Me da segmentation fault con el codigo que estoy probando
+1) ignora lo anterior :)
 
 --------------------------Recomendaciones---------
 1) La mayoria de veces se maneja los indices iniciando en 0.
@@ -8,7 +8,7 @@
 --------------------------Nota--------------------
 
 Grafica 0/20
-Borrar 30/40
+Borrar 40/40
 Get 40/40
 
-Total 70
+Total 80

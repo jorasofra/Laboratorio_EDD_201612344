@@ -24,6 +24,7 @@
                 nuevo->derecha=aux;
                 nuevo->derecha=siguiente;
                 siguiente->izquierda=nuevo;
+                nuevo->izquierda=aux;
                 size++;
                 return;
             }
