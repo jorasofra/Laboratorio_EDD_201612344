@@ -1,0 +1,7 @@
+************Exactamente asi era como queria el metodo*************
+************ asi es como funciona las colas de las librerias******
+************ Es muy bueno dejar una programacion asi porque ******
+************ En el proyecto puede que usen mas de una vez una lista***
+
+************ 100 ***************************
+
